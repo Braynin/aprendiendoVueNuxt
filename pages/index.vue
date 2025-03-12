@@ -50,8 +50,6 @@ h1 {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 80px;
-  
-  background-color: #ff4f4f; /* ejemplo */
 }
 
 @media (max-width: 500px) {
