@@ -1,0 +1,33 @@
+[
+    {
+      "imagen": "/images/prod-1.png",
+      "titulo": "MAESTRO",
+      "descripcion": "WEBSITE"
+    },
+    {
+        "imagen": "/images/prod-2.png",
+        "titulo": "BANCO FALABELLA",
+        "descripcion": "CUENTA SUELDO"
+      },
+      {
+        "imagen": "/images/prod-3.png",
+        "titulo": "DATUM",
+        "descripcion": "DATUM PERÚ"
+      },
+      {
+        "imagen": "/images/prod-4.png",
+        "titulo": "UNACEM",
+        "descripcion": "SEÑAL DE VIDA"
+      },
+      {
+        "imagen": "/images/prod-5.png",
+        "titulo": "TOULOUSE",
+        "descripcion": "ESCUELA VR"
+      },
+      {
+        "imagen": "/images/prod-6.png",
+        "titulo": "TOULOUSE LAUTREC",
+        "descripcion": "ARCADE MUSIC"
+      }  
+  ]
+  

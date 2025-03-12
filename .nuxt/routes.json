@@ -1,0 +1,16 @@
+[
+  {
+    "name": "registro",
+    "path": "/registro",
+    "component": "D:\\\\Owlyx\\\\aprendiendoVueNuxt\\\\pages\\\\registro.vue",
+    "chunkName": "pages/registro",
+    "_name": "_5d000574"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "D:\\\\Owlyx\\\\aprendiendoVueNuxt\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_526a46e1"
+  }
+]
