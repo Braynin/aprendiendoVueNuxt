@@ -1,8 +1,5 @@
 export default {
-  // Modo de renderizado (SSR o SPA)
-  mode: "universal",
-
-  // Configuración de encabezado
+  target: "static",
   head: {
     title: "Picnic Page",
     meta: [
@@ -16,14 +13,4 @@ export default {
     ],
   },
   css: ["~/assets/css/main.css"],
-
-  // Directorio de archivos estáticos
-  // (opcional, por defecto es 'static')
-  // dir: {
-  //   static: 'static'
-  // },
-  // Build Configuration
-  build: {
-    // Config extra de Webpack si la necesitas
-  },
 };
